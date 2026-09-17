@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LLM vs RAG</string>
+
+    <!-- Main Screen -->
+    <string name="hint_query">Enter a knowledge-heavy query…</string>
+    <string name="btn_compare">Compare LLM vs RAG</string>
+    <string name="title_llm">Standard LLM Answer</string>
+    <string name="title_rag">RAG System Answer</string>
+    <string name="label_sources">Sources:</string>
+    <string name="msg_empty_query">Please enter a query</string>
+    <string name="msg_error">Error: %1$s</string>
+</resources>
